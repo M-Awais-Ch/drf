@@ -32,37 +32,37 @@ def get_data(id=None):
     data = r.json()
     print(data)
 
- # get_data()
+# get_data()
 
 def put_data():
     data = {
-        'id': 7,
-        'name': "GMD",
-        'dep': 'tes CS',
-        'roll': 1099,
+        'id': 3,
+        'name': "Husnain",
+        'dep': 'Sacience',
+        'roll': 9,
     }
     json_data = json.dumps(data)
     r = requests.put(url=URL, data=json_data)
     data = r.json()
     print(data)
 
-# put_data()
+#put_data()
 def post_data():
     data={
-        'id':6,
-        'roll':107,
-        'name':'Touseef',
-        'dep':'Icon',
+
+        'roll':1211,
+        'name':'fw',
+        'dep':'Cds',
     }
 
     json_data=json.dumps(data)
-    r=requests.put(url=URL,data=json_data)
+    r=requests.post(url=URL,data=json_data)
 
     data=r.json()
     print(data)
-# post_data()
+#post_data()
 def delt_data():
-    data={'id':4}
+    data={'id':7}
 
     json_data=json.dumps(data)
     r=requests.delete(url=URL,data=json_data)

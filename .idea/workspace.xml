@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="e3085970-1817-46b9-8c1f-28dc19703039" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project1/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/project1/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project1/myapp1.py" beforeDir="false" afterPath="$PROJECT_DIR$/project1/myapp1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project1/p1/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/project1/p1/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +45,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
@@ -53,9 +57,25 @@
     &quot;git-widget-placeholder&quot;: &quot;prac&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/drfProject/mydrfproject&quot;
+=======
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.api.executor": "Run",
+    "Python.myapp1.executor": "Run",
+    "Python.views.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "git-widget-placeholder": "prac",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/drfProject/mydrfproject/project2"
+>>>>>>> 3f1dc94 (Class-Based API View)
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\drfProject\mydrfproject\project2" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\drfProject\mydrfproject\myproject\myproject" />
       <recent name="D:\drfProject\mydrfproject\myproject" />
