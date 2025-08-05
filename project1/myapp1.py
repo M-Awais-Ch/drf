@@ -1,0 +1,66 @@
+# import requests
+# import json
+# URL='http://127.0.0.1:8000/studentapi/'
+# def get_data(id = None):
+#     # data={
+#     #     'id':7,
+#     #     'name':"GMD",
+#     #     'dep':'CS'
+#     # }
+#     data = {}
+#     if id is not None:
+#         data= {'id': id}
+#
+#     json_data=json.dumps(data)
+#     r=requests.get(url=URL,data=json_data)
+#     # print(r)
+#     data=r.json()
+#     print(data)
+# # get_data()
+
+import requests
+import json
+
+URL = 'http://127.0.0.1:8000/studentapi/'
+
+def get_data(id=None):
+    data = {}
+    if id is not None:
+        data = {'id': id}
+    json_data = json.dumps(data)
+    r = requests.get(url=URL, data=json_data)
+    data = r.json()
+    print(data)
+
+ # get_data()
+
+def put_data():
+    data = {
+        'id': 7,
+        'name': "GMD",
+        'dep': 'tes CS',
+        'roll': 1099,
+    }
+    json_data = json.dumps(data)
+    r = requests.put(url=URL, data=json_data)
+    data = r.json()
+    print(data)
+
+# put_data()
+def post_data():
+    data={
+        'id':6,
+        'roll':107,
+        'name':'Touseef',
+        'dep':'Icon',
+    }
+
+    json_data=json.dumps(data)
+    r=requests.put(url=URL,data=json_data)
+
+    data=r.json()
+    print(data)
+post_data()
+
+
+
