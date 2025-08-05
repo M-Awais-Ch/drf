@@ -5,8 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3085970-1817-46b9-8c1f-28dc19703039" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/project1/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/manage.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/project1/myapp1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/p1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/p1/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/p1/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/p1/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/p1/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/p1/models.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/project1/p1/serializer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/p1/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/p1/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/project1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/project1/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/project1/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/project1/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/project1/wsgi.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +63,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.api.executor": "Run",
-    "Python.myapp1.executor": "Debug",
+    "Python.myapp1.executor": "Run",
     "Python.views.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
@@ -79,21 +94,5 @@
       <updated>1753960519667</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/project1/myapp1.py</url>
-          <line>49</line>
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/project1/myapp1.py</url>
-          <line>62</line>
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
