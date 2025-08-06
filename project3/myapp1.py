@@ -50,9 +50,9 @@ def put_data():
 def post_data():
     data={
 
-        'roll':1211,
-        'name':'fw',
-        'dep':'Cds',
+        'roll':637,
+        'name':'Muhammad Awais',
+        'dep':'Islam',
     }
 
     json_data=json.dumps(data)
@@ -60,7 +60,7 @@ def post_data():
 
     data=r.json()
     print(data)
-#post_data()
+post_data()
 def delt_data():
     data={'id':6}
 
@@ -69,7 +69,7 @@ def delt_data():
 
     data=r.json()
     print(data)
-delt_data()
+# delt_data()
 
 
 
