@@ -36,23 +36,23 @@ def get_data(id=None):
 
 def put_data():
     data = {
-        'id': 3,
-        'name': "Husnain",
+        'id': 17,
+        'roll':2,
+        'name': "aHANGE",
         'dep': 'Sacience',
-        'roll': 9,
+
     }
     json_data = json.dumps(data)
     r = requests.put(url=URL, data=json_data)
     data = r.json()
     print(data)
-
-#put_data()
+put_data()
 def post_data():
     data={
 
-        'roll':637,
+        'roll':969,
         'name':'Muhammad Awais',
-        'dep':'Islam',
+        'dep':'Computer Science',
     }
 
     json_data=json.dumps(data)
@@ -60,7 +60,7 @@ def post_data():
 
     data=r.json()
     print(data)
-post_data()
+# post_data()
 def delt_data():
     data={'id':6}
 
