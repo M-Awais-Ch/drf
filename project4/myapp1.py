@@ -34,7 +34,7 @@ def get_data(id=None):
     data = r.json()
     print(data)
 
-# get_data()
+get_data()
 
 def put_data():
     data = {
@@ -63,7 +63,7 @@ def post_data():
 
     data=r.json()
     print(data)
-post_data()
+# post_data()
 def delt_data():
     data={'id':6}
 

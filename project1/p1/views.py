@@ -6,8 +6,6 @@ import io
 from rest_framework.parsers import JSONParser
 from rest_framework.renderers import JSONRenderer
 from django.http import HttpResponse
-
-
 # Create your views here.
 @csrf_exempt
 def student_api(request, id=None):
@@ -49,7 +47,6 @@ def student_api(request, id=None):
             return HttpResponse(json_data, content_type='application/json')
         json_data = JSONRenderer().render(serializer.errors)
         return HttpResponse(json_data, content_type='application/json')
-
     if request.method == 'DELETE':
         json_data = request.body
         stream = io.BytesIO(json_data)

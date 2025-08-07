@@ -4,83 +4,47 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3085970-1817-46b9-8c1f-28dc19703039" name="Changes" comment="">
+    <list default="true" id="01df9446-d271-462d-8903-db0b26ccefce" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/mydrfproject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mydrfproject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project1/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/project1/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project1/myapp1.py" beforeDir="false" afterPath="$PROJECT_DIR$/project1/myapp1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project1/p1/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/project1/p1/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/project4/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/myapp1.py" beforeDir="false" afterPath="$PROJECT_DIR$/project4/myapp1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/p2/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/project4/p2/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/p2/serializer.py" beforeDir="false" afterPath="$PROJECT_DIR$/project4/p2/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/p2/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/project4/p2/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/project4/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/project4/project4/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;M-Awais-Ch&quot;
-  }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/M-Awais-Ch/drf.git&quot;,
-    &quot;accountId&quot;: &quot;0f024d96-b4c9-416e-84ca-aac82e2e7dfb&quot;
-  }
-}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/project4/p2/views.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 5
+  &quot;associatedIndex&quot;: 1
 }</component>
-  <component name="ProjectId" id="30dbhtI8NYZqMp8jCzUaWILHAsd" />
+  <component name="ProjectId" id="30wygsvVj4MN4ToNbPdrxbUJ107" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-<<<<<<< HEAD
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.api.executor&quot;: &quot;Run&quot;,
-    &quot;Python.myapp1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.views.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;prac&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/drfProject/mydrfproject&quot;
-=======
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.api.executor": "Run",
     "Python.myapp1.executor": "Run",
-    "Python.views.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "git-widget-placeholder": "prac",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/drfProject/mydrfproject/project2"
->>>>>>> 3f1dc94 (Class-Based API View)
+    "git-widget-placeholder": "prac"
   }
-}</component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\drfProject\mydrfproject\project2" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\drfProject\mydrfproject\myproject\myproject" />
-      <recent name="D:\drfProject\mydrfproject\myproject" />
-    </key>
-  </component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -90,11 +54,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e3085970-1817-46b9-8c1f-28dc19703039" name="Changes" comment="" />
-      <created>1753960519667</created>
+      <changelist id="01df9446-d271-462d-8903-db0b26ccefce" name="Changes" comment="" />
+      <created>1754553044811</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1753960519667</updated>
+      <updated>1754553044811</updated>
     </task>
     <servers />
   </component>
