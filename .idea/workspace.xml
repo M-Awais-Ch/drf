@@ -6,10 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="01df9446-d271-462d-8903-db0b26ccefce" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project5/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/project5/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project5/p2/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/project5/p2/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project5/project5/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/project5/project5/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project5/project5/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/project5/project5/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,18 +26,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.myapp1.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;prac&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/drfProject/mydrfproject/project5&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.myapp1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "git-widget-placeholder": "prac",
+    "last_opened_file_path": "D:/drfProject/mydrfproject/project6"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\drfProject\mydrfproject\project6" />
       <recent name="D:\drfProject\mydrfproject\project5" />
     </key>
   </component>
