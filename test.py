@@ -1,8 +1,8 @@
 def test(num):
-    a = ["zero","one","two","three","four","five","six","seven","eight","nine"]
-    b = ["ten","eleven","twelve","thirteen","fourteen","fifteen",
-    "sixteen","seventeen","eighteen","nineteen"]
-    c = ["","","twenty","thirty","forty","fifty","sixty","seventy","eighty","ninety"]
+    a = ["Zero","One","Two","Three","Four","Five","Six","Seven","Eight","Nine"]
+    b = ["Ten","Eleven","Twelve","Thirteen","Fourteen","Fifteen",
+    "Sixteen","Seventeen","Eighteen","Nineteen"]
+    c = ["","","Twenty","Thirty","Forty","Fifty","Sixty","Seventy","Eighty","Ninety"]
     if num >= 0 and num < 10:
         return a[num]
     elif num >= 10 and num < 20:
@@ -74,3 +74,6 @@ print(test(num))
 #
 #
 #
+
+
+
