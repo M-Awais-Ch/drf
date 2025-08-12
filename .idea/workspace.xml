@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01df9446-d271-462d-8903-db0b26ccefce" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/project12/p2/coustamize.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/drf" beforeDir="false" afterPath="$PROJECT_DIR$/drf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/drf/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/drf/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project10/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/project10/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project10/p2/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/project10/p2/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,27 +36,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.manage.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.myapp1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.urls.executor&quot;: &quot;Run&quot;,
-    &quot;Python.views.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;prac&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/drfProject/mydrfproject/project11&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.manage.executor": "Debug",
+    "Python.myapp1.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.urls.executor": "Run",
+    "Python.views.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "git-widget-placeholder": "prac",
+    "last_opened_file_path": "D:/drfProject/mydrfproject/project12"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\drfProject\mydrfproject\project12" />
       <recent name="D:\drfProject\mydrfproject\project11" />
       <recent name="D:\drfProject\mydrfproject\project10" />
       <recent name="D:\drfProject\mydrfproject\project9" />
       <recent name="D:\drfProject\mydrfproject\project9\project9" />
-      <recent name="D:\drfProject\mydrfproject\project8" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\drfProject\mydrfproject\project9" />
