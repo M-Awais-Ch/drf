@@ -5,9 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01df9446-d271-462d-8903-db0b26ccefce" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/DRFWork.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task1/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task1/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task1/myapp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task1/myapp/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task1/myapp/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task1/myapp/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task1/myapp/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task1/myapp/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task1/myapp/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task1/myapp/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task1/myapp/throttling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task1/myapp/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task1/task1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task1/task1/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task1/task1/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task1/task1/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task1/task1/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/drf" beforeDir="false" afterPath="$PROJECT_DIR$/drf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/drf/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/drf/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +66,7 @@
     "Python.views.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "git-widget-placeholder": "prac",
+    "git-widget-placeholder": "Merging prac",
     "last_opened_file_path": "D:/drfProject/mydrfproject/project18"
   }
 }]]></component>
@@ -71,7 +92,6 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.13 (mydrfproject)" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -102,6 +122,17 @@
       <updated>1754553044811</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
